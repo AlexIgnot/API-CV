@@ -1,9 +1,13 @@
 {
-  "name"  : "Adolfo Centeno",
-  "email" : "adsoft@live.com.mx",
-  "cel"   : "(272)190 8413",
-  "social": {
-    "face": "^2.8.5",
-    "x": "^4.18.2"
+  "name"  : "Ángel Alexander Villagómez Ígnot",
+  "title" : "Software Engineering Student",
+  "objective" : "To be a project manager",
+  "foto"  : "nosedondemoverleafirebaseparasubirlafoto:D:",
+  
+  "social": {	
+	"email": "alex.ignot@hotmail.com",
+	"celular" : "2717007223",
+	"city" : "Omealca, Ver."
   }
+ }
 }

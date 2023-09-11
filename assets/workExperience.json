@@ -1,0 +1,14 @@
+{
+	"work_experience": [
+		{
+			"title" : "Software Developer",
+			"company" : "UV",
+			"start_date" : "05/2021",
+			"finish_date": "08/2022",
+			"location" : "Ixtaczoquitlan, Mex",
+			"logros" : [
+				"Diseño de mockups para FitO - Fitness Tracker"			
+			]
+		}
+	]
+}
